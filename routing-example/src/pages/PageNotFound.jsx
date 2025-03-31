@@ -15,8 +15,8 @@ const PageNotFound = () => {
   return (
     <>
       <h1>404: This page could not be found</h1>
-      <p>You will be redirected back to the home page after 
-        five seconds
+      <p>You will be redirected back to the 
+        home page after five seconds
       </p>
     </>
   );

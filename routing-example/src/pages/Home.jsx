@@ -4,8 +4,8 @@ const Home = () => {
   const navigate = useNavigate();
 
   const handleClick = () => {
-    navigate('/aboutus');
-  }
+    navigate("/aboutus");
+  };
 
   return (
     <>
@@ -16,3 +16,4 @@ const Home = () => {
 };
 
 export default Home;
+
